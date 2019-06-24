@@ -1,0 +1,9 @@
+[submodule "betterstat-server"]
+	path = betterstat-server
+	url = git@github.com:IncPlusPlus/betterstat-server.git
+[submodule "betterstat-android"]
+	path = betterstat-android
+	url = git@github.com:IncPlusPlus/betterstat-android.git
+[submodule "betterstat-arduino"]
+	path = betterstat-arduino
+	url = git@github.com:IncPlusPlus/betterstat-arduino.git
